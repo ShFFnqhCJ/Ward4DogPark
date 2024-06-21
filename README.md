@@ -1,7 +1,6 @@
 New Bedford Ward 4 needs a Dog Park!
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
+![ward 4 needs a dog park](https://github.com/ShFFnqhCJ/iaghj/assets/53147735/37fdab94-b83e-458c-aa81-781fcc4062dc)
+![get involved](https://github.com/ShFFnqhCJ/iaghj/assets/53147735/1f7dc045-decb-43e1-82bd-a43c3796cf1a)
+
