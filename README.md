@@ -8,7 +8,8 @@
  ### How can you help?
  
  > [!TIP]
-> Lead or join the **Ward 4 Dog Park Committee**
+> Lead or join the
+> **Ward 4 Dog Park Committee**
 
 
 
