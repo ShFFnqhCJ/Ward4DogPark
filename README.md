@@ -1,4 +1,9 @@
-New Bedford Ward 4 needs a Dog Park!
+#New Bedford Ward 4 needs a Dog Park!
+
+##Join the effort
+ The city is gathering input on what the community needs to build it on the old Morse Cutting Tools property.
+ Help us in the effort to make a dog park be part of that planning!
+ 
 
 
 
